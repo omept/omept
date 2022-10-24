@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 🐎 My name is George and I’m a Software Engineer based in Lagos, Nigeria.
-- 🔭 I’m currently working on [![Yapdoof]](https://linktr.ee/yapdoofapp) 
+- 🔭 I currently finished working on [![Yapdoof]](https://linktr.ee/yapdoofapp) 
 - 🌱 I’m currently writing about Go (Golang)
 - 👯 I’m looking to collaborate on backend, frontend, and mobile applications
 - 🤔 I’m looking for help with finding a community of introverted developers
