@@ -1,11 +1,9 @@
-### Hi there 👋, 
+### Hi there 👋🏽 
 
-🧸 zzzzZZZZZZ (Sleeping bear)
+I'm George ... 🧸 zzzzZZZZZZ (Sleeping bear)
 .
 .
 .
-
-🤓 I'm George!
 
 
 # 💫 About Me:
