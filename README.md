@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-🧸 zzzzZZZZZZ (Hibernating bear)
+🧸 zzzzZZZZZZ (Sleeping bear)
 .
 .
 .
