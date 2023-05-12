@@ -8,13 +8,13 @@ I'm George ... 🧸 zzzzZZZZZZ (Sleeping bear)
 
 # 💫 About Me:
 🐎 My name is George and I’m a Software Engineer based in Lagos, Nigeria.
-- 🥂 8 years of software development experience 🌱
+- 🥂 12 years of software development experience 🌱
 - 🔭 I currently finished working on an escrow fintech application [[Yapdoof]](https://linktr.ee/yapdoofapp) 
 - 💻 I’m currently writing about Go (Golang) [[Medium]](https://medium.com/@ong-gtp) 
 - 👯 I’m looking to collaborate on backend, frontend, and mobile applications
 - 🤔 I’m looking for help with finding a community of introverted developers
 - 💬 Ask me about backend developement with Laravel, Nodejs, and Golang
-- 😄 Pronouns: He/Him/They
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like reptiles 
 
 
