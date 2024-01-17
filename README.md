@@ -7,7 +7,7 @@
 
 #  Omept Technology Limited (RC NO: 1828334)
 - 📈 12 years of software development.  🌱
-- 🇳🇬 Remote Internet Company Registered In Nigeria
+- 🇳🇬 Registered In Nigeria
 
 
 
