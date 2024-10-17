@@ -8,6 +8,8 @@
 #  Omept Technology Limited (RC NO: 1828334)
 - 📈 12 years of software engineering experience.  🌱
 - 📍 Lagos, Nigeria  🇳🇬
+- Phone: +234 816 322 9099
+- Whatsapp:  +234 817 931 9079
 
 
 
